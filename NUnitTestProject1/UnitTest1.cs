@@ -10,7 +10,7 @@ namespace Tests
         [SetUp]
         public void Setup()
         {
-            tram = new Tram(6, "Chuh Chuh Chuh ");
+            tram = new Tram(6, " ..Chuh Chuh Chuh ");
         }
 
         [Test]
